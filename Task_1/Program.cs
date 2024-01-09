@@ -5,9 +5,9 @@
 
 
 Console.Write("Введите значение M: ");
-int M = int.Parse(Console.ReadLine());
+int M = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите значение N: ");
-int N = int.Parse(Console.ReadLine());
+int N = Convert.ToInt32(Console.ReadLine());
 
 static void PrintNumbers(int M, int N)
 {
