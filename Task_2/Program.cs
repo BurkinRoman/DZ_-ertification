@@ -2,10 +2,10 @@
 // с помощью рекурсии. Даны два неотрицательных числа m и n.
 
 Console.Write("Введите значение m: ");
-int m = int.Parse(Console.ReadLine());
+int m = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите значение n: ");
-int n = int.Parse(Console.ReadLine());
+int n = Convert.ToInt32(Console.ReadLine());
 static int Ackermann(int m, int n)
 {
     if (m == 0)
