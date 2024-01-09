@@ -1,0 +1,15 @@
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\bin\Debug\net6.0\Task_2.exe
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\bin\Debug\net6.0\Task_2.deps.json
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\bin\Debug\net6.0\Task_2.dll
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\bin\Debug\net6.0\Task_2.pdb
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\Task_2.dll
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\Task_2.pdb
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+D:\GeekBrains\ДЗ\DZ_Certification\Task_2\obj\Debug\net6.0\ref\Task_2.dll
